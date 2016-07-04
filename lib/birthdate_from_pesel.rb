@@ -13,6 +13,8 @@ module BirthdateFromPesel
       '7' => '1'
     }.freeze
 
+    private_constant :MONTHS_MAP
+
     def initialize(pesel)
       @pesel = pesel
     end
