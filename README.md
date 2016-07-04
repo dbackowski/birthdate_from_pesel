@@ -1,4 +1,4 @@
-# BirthdateFromPesel
+# BirthdateFromPesel [![Build Status](https://travis-ci.org/dbackowski/birthdate_from_pesel.svg?branch=master)](https://travis-ci.org/dbackowski/birthdate_from_pesel)
 
 Library for getting birthdate from polish pesel number.
 
